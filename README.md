@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Isacco
-- 👀 I’m interested in Machine Learning, Deep Learning, Data Science, Python
+- 👀 I’m interested in Machine Learning, Deep Learning, Data Science, Python, Music
 - 🌱 I’m currently learning Statistics, Data Visualization
 - 📫 How to reach me isacco.valsecchi@gmail.com
 
