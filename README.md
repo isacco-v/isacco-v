@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Isacco
-- 👀 I’m interested in Machine Learning, Deep Learning, Data Science, Python, Music
-- 🌱 I’m currently learning Statistics, Data Visualization
+- 👀 I’m interested in AI, Data Science, Python, Music
+- 🌱 I’m currently learning transformers & LLMs
 - 📫 How to reach me isacco.valsecchi@gmail.com
 
 <!---
